@@ -1,5 +1,7 @@
 cd /
 E:
+
+echo ...................SSL Wireless all projects............................
 cd E:\Projects\3.ssl_wireless\1.ghoori_admin
 git pull
 cd E:\Projects\3.ssl_wireless\1.ghoori_api
@@ -43,4 +45,23 @@ git pull
 cd E:\Projects\3.ssl_wireless\10.cokewc22microsite
 git pull
 cd E:\Projects\3.ssl_wireless\11.push_pull_app_api
+git pull
+
+
+echo ...................Personal all projects............................
+cd E:\Projects\0.personal\socketio
+git pull
+cd E:\Projects\0.personal\indexeddb
+git pull
+cd E:\Projects\0.personal\js_php_python
+git pull
+cd E:\Projects\0.personal\docker_cmp
+git pull
+
+echo ...................Important projects............................
+cd E:\Projects\batch_programming
+git pull
+cd E:\Projects\db_backups
+git pull
+cd E:\Projects\templates
 git pull
