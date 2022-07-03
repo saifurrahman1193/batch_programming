@@ -38,9 +38,9 @@ git pull
 cd E:\Projects\3.ssl_wireless\9.cmp_frontend
 git pull
 
-E:\Projects\3.ssl_wireless\10.cokewc22concert
+cd E:\Projects\3.ssl_wireless\10.cokewc22concert
 git pull
-E:\Projects\3.ssl_wireless\10.cokewc22microsite
+cd E:\Projects\3.ssl_wireless\10.cokewc22microsite
 git pull
-E:\Projects\3.ssl_wireless\11.push_pull_app_api
+cd E:\Projects\3.ssl_wireless\11.push_pull_app_api
 git pull
