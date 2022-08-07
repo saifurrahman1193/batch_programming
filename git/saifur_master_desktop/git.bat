@@ -133,6 +133,12 @@ git add .
 git commit -m "Auto push"
 git push
 
+cd E:\Projects\0.personal\react-learning
+git pull
+git add .
+git commit -m "Auto push"
+git push
+
 echo ...................Important projects............................
 cd E:\Projects\batch_programming
 git pull
