@@ -109,6 +109,11 @@ git pull
 git add .
 git commit -m "Auto push"
 git push
+cd F:\Projects\3.ssl_wireless\12.otl_report
+git pull
+git add .
+git commit -m "Auto push"
+git push
 
 
 echo ...................Personal all projects............................
