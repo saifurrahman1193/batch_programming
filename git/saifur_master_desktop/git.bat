@@ -171,11 +171,13 @@ git pull
 git add .
 git commit -m "Auto push"
 git push
+
 cd F:\Projects\db_backups
 git pull
 git add .
 git commit -m "Auto push"
 git push
+
 cd F:\Projects\templates
 git pull
 git add .
