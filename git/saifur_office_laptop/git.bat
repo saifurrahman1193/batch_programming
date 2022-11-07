@@ -176,3 +176,11 @@ git pull
 git add .
 git commit -m "Auto push"
 git push
+
+
+
+cd D:\Projects\project_documents
+git pull
+git add .
+git commit -m "Auto push"
+git push
