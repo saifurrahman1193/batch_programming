@@ -2,38 +2,38 @@ cd /
 F:
 
 echo ...................SSL Wireless all projects............................
-cd F:\Projects\3.ssl_wireless\1.ghoori_admin
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\1.ghoori_api
-git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM cd F:\Projects\3.ssl_wireless\1.ghoori_admin
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\1.ghoori_api
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
-cd F:\Projects\3.ssl_wireless\2.maasranga_television_admin
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\2.maasranga_television_api
-git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM cd F:\Projects\3.ssl_wireless\2.maasranga_television_admin
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\2.maasranga_television_api
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
-cd F:\Projects\3.ssl_wireless\3.radio_din_rat_admin
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\3.radio_din_rat_api
-git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM cd F:\Projects\3.ssl_wireless\3.radio_din_rat_admin
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\3.radio_din_rat_api
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd F:\Projects\3.ssl_wireless\4.vr_report_admin
 git pull
@@ -46,26 +46,26 @@ git add .
 git commit -m "Auto push"
 git push
 
-cd F:\Projects\3.ssl_wireless\5.rongila_cms
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\5.rongila_cms_api
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\5.rongila_site
-git pull
-git add .
-git commit -m "Auto push"
-git push
-cd F:\Projects\3.ssl_wireless\5.rongila_web_api
-git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM cd F:\Projects\3.ssl_wireless\5.rongila_cms
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\5.rongila_cms_api
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\5.rongila_site
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
+@REM cd F:\Projects\3.ssl_wireless\5.rongila_web_api
+@REM git pull
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 @REM cd F:\Projects\3.ssl_wireless\6.marks2021
 @REM git pull
