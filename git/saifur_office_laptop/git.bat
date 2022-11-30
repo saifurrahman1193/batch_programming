@@ -36,14 +36,14 @@ echo ...................SSL Wireless all projects............................
 
 cd D:\Projects\3.ssl_wireless\4.vr_report_admin
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 cd D:\Projects\3.ssl_wireless\4.vr_report_admin_api
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 @REM cd D:\Projects\3.ssl_wireless\5.rongila_cms
 @REM git pull
@@ -80,25 +80,25 @@ git push
 
 cd D:\Projects\3.ssl_wireless\8.games_admin
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 cd D:\Projects\3.ssl_wireless\8.games_admin_api
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd D:\Projects\3.ssl_wireless\9.cmp_api
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 cd D:\Projects\3.ssl_wireless\9.cmp_frontend
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 @REM cd D:\Projects\3.ssl_wireless\10.cokewc22concert
 @REM git pull
@@ -113,27 +113,27 @@ git push
 
 cd D:\Projects\3.ssl_wireless\11.push_pull_app_api
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd D:\Projects\3.ssl_wireless\12.otl_report
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd D:\Projects\3.ssl_wireless\13.bl_sdp
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd D:\Projects\3.ssl_wireless\14.otl_erp_api
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 
 echo ...................Personal all projects............................
