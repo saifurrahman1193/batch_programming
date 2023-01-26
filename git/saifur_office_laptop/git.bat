@@ -161,15 +161,22 @@ git push
 echo ...................Important projects............................
 cd D:\Projects\batch_programming
 git pull
-git add .
-git commit -m "Auto push"
-git push
+@REM git add .
+@REM git commit -m "Auto push"
+@REM git push
 
 cd D:\Projects\db_backups
 git pull
 git add .
 git commit -m "Auto push"
 git push
+
+cd D:\Projects\postman_backup
+git pull
+git add .
+git commit -m "Auto push"
+git push
+
 
 cd D:\Projects\templates
 git pull
