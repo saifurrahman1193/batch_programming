@@ -186,3 +186,9 @@ git pull
 git add .
 git commit -m "Auto push"
 git push
+
+cd "/mnt/7e3701e0-10b9-4e10-8884-5b27c662033b/Projects/project_documents" 
+git pull
+git add .
+git commit -m "Auto push"
+git push
